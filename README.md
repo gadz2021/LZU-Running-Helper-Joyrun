@@ -1,6 +1,6 @@
 # 兰大悦跑圈模拟脚本
 
-> 支持账号密码和手机号验证码登录
+> 支持账号密码和手机号验证码登录  
 > 5秒钟上传完跑步记录  
 > 本项目由 [github 上的 TarikVon/LZURunningHelper](https://github.com/TarikVon/LZURunningHelper) 改造而来。  
 
